@@ -1,6 +1,8 @@
-## 🌬️ Philippine Air Quality Analysis
 
-This project analyzes the air quality across major cities in the Philippines, focusing on pollutant trends and seasonal patterns.
+## 🌍📈 Spatio-Temporal Analysis and Forecasting of Air Quality in Six Philippine Cities Using Machine Learning
+
+This project performs spatio-temporal analysis of air quality data collected from six major cities in the Philippines. It focuses on identifying pollutant trends, uncovering seasonal patterns, and forecasting future air quality using advanced machine learning models.
+
 
 ______________________________________________________________________________________________________________________________________________________________________
 
